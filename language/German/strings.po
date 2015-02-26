@@ -550,7 +550,7 @@ msgstr "Skin Version"
 
 msgctxt "#41459"
 msgid "Kodi Version"
-msgstr "Kodi Version"
+msgstr "Version"
 
 msgctxt "#41460"
 msgid "Framework"
@@ -574,7 +574,7 @@ msgstr "Startseite"
 
 msgctxt "#41525"
 msgid "Search Kodi for"
-msgstr "Durchsuche Kodi nach"
+msgstr "Suche nach"
 
 msgctxt "#41550"
 msgid "Spotlight"
