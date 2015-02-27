@@ -17,4 +17,4 @@
 3. Allow the skin to install, dependencies to be downloaded (where required) and load.
 
 #### Further information
-See http://http://mycrossbox.com/foren/forum/ for more information.
+See http://mycrossbox.com/foren/forum/crossbox-app-forum/ for more information.
