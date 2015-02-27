@@ -17,4 +17,4 @@
 3. Allow the skin to install, dependencies to be downloaded (where required) and load.
 
 #### Further information
-See http://forum.kodi.tv/showthread.php?tid=197125 for more information.
+See http://http://mycrossbox.com/foren/forum/ for more information.
